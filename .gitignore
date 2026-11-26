@@ -1,0 +1,6 @@
+node_modules/
+kit/
+*.tar.gz
+check-*.json
+check-*.log
+transcripts*.tar.gz
